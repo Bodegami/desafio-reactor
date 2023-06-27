@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.dio.desafioreactor.Question1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-20T15:57:33" hostname="MacBook-Pro-de-Jose.local" time="0.04">
+<testsuite name="br.com.dio.desafioreactor.Question1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-27T01:55:34" hostname="DESKTOP-4II4JQO" time="0.22">
   <properties/>
-  <testcase name="incTest()" classname="br.com.dio.desafioreactor.Question1Test" time="0.04"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="incTest()" classname="br.com.dio.desafioreactor.Question1Test" time="0.22"/>
+  <system-out><![CDATA[7333808
+49516
+643010
+5944736
+9409925
+88
+23943
+6136152
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
